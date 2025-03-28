@@ -3,8 +3,9 @@
 body{
     font-size: 20px;
     line-height: 1.5;
-    background-color: rgb(105, 105, 105);
-    font-family: "Comfortaa", sans-serif;
+    background-color: rgb(0, 0, 0);
+    font-family: "Comfortaa", sans-serif; 
+    color: darkred;
 }
 img{
     width: 300px
