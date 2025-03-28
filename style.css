@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
 body{
     font-size: 20px;
     line-height: 1.5;
-    background-color: rgb(156, 135, 135);
-    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(105, 105, 105);
+    font-family: "Comfortaa", sans-serif;
 }
 img{
     width: 300px
